@@ -1,0 +1,14 @@
+Peça dois números ao usuário e mostre os resultados de uma calculadora básica: Adição, subtração, multiplicação e divisão.
+
+inteiro1 = int(input("Digite um número inteiro "))
+inteiro2 = int(input("Digite outro número inteiro "))
+
+soma = inteiro1+inteiro2
+subtracao = inteiro1-inteiro2
+multiplicacao = inteiro1*inteiro2
+divisao = inteiro1/inteiro2
+
+print(" A adição dos números é:", soma)
+print(" A subtração dos números é:", subtracao)
+print( " A multiplicação dos números é:", multiplicacao)
+print(" A divisão dos números é:", divisao)
