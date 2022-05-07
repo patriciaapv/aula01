@@ -1,0 +1,13 @@
+nome = input("Qual é o seu nome?")
+sobrenome = input("Qual é o seu sobrenome?")
+
+print(nome, sobrenome)
+
+Atividade 8.1
+
+inteiro1 = int(input("Digite um número inteiro"))
+inteiro2 = int(input("Digite outro número inteiro"))
+
+soma = inteiro1 + inteiro2
+
+print(soma)
