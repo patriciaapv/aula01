@@ -1,0 +1,11 @@
+Refaça o programa das médias, agora com 4 notas para o usuário, e, por fim, mostrar o resultado em tela. 
+
+inteiro1 = int(input("Digite um número inteiro "))
+inteiro2 = int(input("Digite outro número inteiro "))
+inteiro3 = int(input("Digite um número inteiro "))
+inteiro4 = int(input("Digite outro número inteiro "))
+
+soma = inteiro1+inteiro2+inteiro3+inteiro4
+média = (soma/4)
+
+print(média)
